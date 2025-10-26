@@ -26,5 +26,7 @@ Resources:
       InstanceType: t2.micro
       ImageId: ami-0c55b159cbfafe1f0  # Exemplo - AMI da Amazon Linux 2
       KeyName: minha-chave-ec2
+````
+Documentação da AWS Cloud Formation:
 
-
+[Documentação Oficial](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/gettingstarted.walkthrough.html)
